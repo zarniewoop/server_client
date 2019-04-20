@@ -1,0 +1,11 @@
+{
+  "name": "socket_client",
+  "version": "1.0.0",
+  "description": "socket_client listing 8.1 from the MEAN book",
+  "main": "socket_client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zarniewoop",
+  "license": "ISC"
+}
